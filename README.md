@@ -53,4 +53,9 @@ Because Echo Helix Nexus is an original creation, suggestions are welcome but in
 
 ---
 
-© 2025 Echo Helix Nexus Project — Original concept creation
+© 2025 Echo Helix Nexus Project — Original concept creation  
+Created by Kallol — Concept Originator  
+
+## Links
+
+- [Project Homepage](https://helixoriginator.github.io/echo-helix-nexus-framework/)
